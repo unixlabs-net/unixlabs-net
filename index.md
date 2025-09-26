@@ -1,3 +1,8 @@
+---
+title: Unix Research Labs
+description: Independent research laboratory inspired by the legacy of Bell Labs
+---
+
 # Unix Research Labs
 
 **Unix Research Labs** (or simply **Unix Labs**) is an independent research laboratory  
@@ -5,11 +10,11 @@ inspired by the legacy of Bell Labs.
 
 > Exploring systems, AI, and open-source technologies with a practical focus.
 
-🔗 [unixailabs.net](http://unixailabs.net)  
+🔗 [Back to GitHub Profile](https://github.com/unixlabs-net)  
 
 ---
 
-### 🧪 Research Areas and Services
+### 🧪 Research Areas
 - 🤖 Artificial Intelligence Systems (AI)  
 - 💻 Open-Source Software  
 - ⚙️ Automation and Scripting  
@@ -19,6 +24,5 @@ inspired by the legacy of Bell Labs.
 ---
 
 ### 📩 Contacts
-For collaboration or inquiries:  
 - GitHub: [@unixlabs-net](https://github.com/unixlabs-net)  
 - Location: Shymkent, Kazakhstan  
