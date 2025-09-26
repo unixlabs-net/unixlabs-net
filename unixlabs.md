@@ -89,8 +89,8 @@
 
 **Фоксфорд** - обучение, библиотека, публикации 
 * [Информатика](https://foxford.ru/wiki/informatika)
+* [Биология](https://foxford.ru/wiki/biology)
 * [Русский язык](https://foxford.ru/wiki/russkiy-yazyk)
-* [YouTube-канал](https://www.youtube.com/foxfordru)
 * **Kolibri** — офлайн-курсы
 * **Moodle** — собственные учебные материалы
 
